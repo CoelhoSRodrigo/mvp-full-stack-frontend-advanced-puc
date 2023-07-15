@@ -5,6 +5,14 @@ Projeto de MVP do módulo Desenvolvimento Front-end Avançado da especializaçã
 Aluno: **Rodrigo dos Santos Coelho** (*https://www.linkedin.com/in/rodrigoscoelho/*)
 
 ---
+##  Vídeo Youtube
+
+---
+##  Prototipação no Figma
+
+Projeto no Figma: https://www.figma.com/file/
+
+---
 ## Primeiros passos
 
 Após clonar o repositório do GitHub (*https://github.com/CoelhoSRodrigo/mvp-full-stack-frontend-advanced-puc/*), é necessário ir ao diretório raiz, pelo terminal do Visual Studio Code, para que possa executar os comandos descritos abaixo.
