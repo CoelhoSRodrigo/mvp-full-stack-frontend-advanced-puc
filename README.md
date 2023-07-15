@@ -17,3 +17,6 @@ npm start
 ```
 
 > O primeiro comando `npm install`, iremos utilizar para a criação do ambiente virtual, já o segundo comando, `npm start`, será para ativá-lo.
+
+
+Abra o http://localhost:3000/ no navegador, de preferência o Google Chrome, para verificar a execução do projeto.
