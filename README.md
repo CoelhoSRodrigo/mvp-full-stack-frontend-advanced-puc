@@ -10,8 +10,10 @@ Aluno: **Rodrigo dos Santos Coelho** (*https://www.linkedin.com/in/rodrigoscoelh
 ---
 ##  Prototipação no Figma
 
-Projeto no Figma: [https://www.figma.com/file/](https://www.figma.com/proto/dzM9j9CVyEAQsPZgJ1VfIA/Portifolio-React-Rodrigo-Coelho?type=design&node-id=2-2&t=bJZ2BxU7HMowwE8D-1&scaling=scale-down&page-id=0%3A1&mode=design)
+Projeto no Figma: https://www.figma.com/proto/dzM9j9CVyEAQsPZgJ1VfIA/Portifolio-React-Rodrigo-Coelho?type=design&node-id=2-2&t=bJZ2BxU7HMowwE8D-1&scaling=scale-down&page-id=0%3A1&mode=design
 
+> Ao acessar o link do Figma, clicar no menu "Sobre" e logo depois no menu "Serviço".
+> 
 ---
 ## Primeiros passos
 
